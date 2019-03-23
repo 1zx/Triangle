@@ -12,6 +12,8 @@ body{
 h2 {
     color: rgb(19, 15, 17);
     text-decoration: underline;
+    text-shadow: 3px 2px rgba(8, 105, 24, 0.801);
+   
 }
 .cool{
     font-style: italic;
@@ -19,9 +21,11 @@ h2 {
 p.uppercase {
     text-transform: uppercase;
     text-indent: 10px;
+    direction: ltr;
 }
 .column {
     width: 350px;
     float: right;
     margin-right: 800px
  }
+ 
