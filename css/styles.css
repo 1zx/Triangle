@@ -1,5 +1,27 @@
 .author {
     font-style: italic;
-    color: yellowgreen;
+    color: rgba(250, 0, 75, 0.829);
     text-align: center;
 }
+body{
+    background-color:white;
+    background-image: url(../images/pik3.jpg);
+    background-size: cover;
+    
+}
+h2 {
+    color: rgb(19, 15, 17);
+    text-decoration: underline;
+}
+.cool{
+    font-style: italic;
+}
+p.uppercase {
+    text-transform: uppercase;
+    text-indent: 10px;
+}
+.column {
+    width: 350px;
+    float: right;
+    margin-right: 800px
+ }
