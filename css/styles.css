@@ -25,6 +25,10 @@ p.uppercase {
     text-transform: uppercase;
     text-indent: 10px;
     direction: ltr;
+    outline-style: solid;
+    outline-width: 1px;
+    outline-offset: 1px;
+    background: rgba(158, 136, 144, 0.733);
 }
 .column {
     width: 350px;
