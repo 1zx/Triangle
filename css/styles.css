@@ -1,6 +1,6 @@
 .author {
     font-style: italic;
-    color: rgba(250, 0, 75, 0.829);
+    color: rgba(17, 0, 250, 0.438);
     text-align: center;
 }
 body{
@@ -13,6 +13,7 @@ h2 {
     color: rgb(19, 15, 17);
     text-decoration: underline;
     text-shadow: 3px 2px rgba(8, 105, 24, 0.801);
+    font-size: 30px;
    
 }
 .cool{
