@@ -8,18 +8,24 @@ body{
     background-image: url(../images/pik3.jpg);
     background-size: cover;
     font-size: 100%;
-    
+   
+        width: 300px;
+        border: 75px solid green;
+        padding: 25px;
+        margin: 25px;
+      
 }
 h2 {
     color: rgb(19, 15, 17);
     text-decoration: underline;
     text-shadow: 3px 2px rgba(8, 105, 24, 0.801);
     font-size: 30px;
-    
+    text-shadow: 2px 2px;
    
 }
 .cool{
     font-style: italic;
+    
 }
 p.uppercase {
     text-transform: uppercase;
@@ -35,4 +41,4 @@ p.uppercase {
     float: right;
     margin-right: 800px
  }
- 
+}
