@@ -40,8 +40,13 @@ p.uppercase {
     outline-offset: 1px;
     background: rgba(65, 7, 28, 0.733);
 }
-.column {
-    width: 350px;
-    float: right;
-    margin-right: 800px
- }
+button{
+   background-color: #4CAF50;
+   border: none;
+   color: white;
+   padding: 12px 30px;
+   text-decoration: none;
+   display: flow-root;
+   font-size: 15px;
+   text-align: center;
+}
