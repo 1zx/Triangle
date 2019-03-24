@@ -1,8 +1,8 @@
 # Triangle Trackeer
 -This is an application that determines whether a set of three numbers can either make a Scalene,Equilateral and or Isosceles triangle.
-By Charles Gateru
+By Charles Gateru. 
 ## Description
--The application works in way that you enter any value from 1 to 10.
+-The application works in way that you enter any value from 1 to 10. https://1zx.github.io/Triangle/
 ## Setup/Installation Requirements
 * The use of VSC used as an editor.
 * Use of HTML and CSS.
