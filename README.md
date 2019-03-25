@@ -1,19 +1,19 @@
-# Triangle Trackeer
+# Triangle Trackeer.
 -This is an application that determines whether a set of three numbers can either make a Scalene,Equilateral and or Isosceles triangle.
 By Charles Gateru. 
-## Description
+## Description.
 -The application works in way that you enter any value from 1 to 10. https://1zx.github.io/Triangle/
-## Setup/Installation Requirements
+## Setup/Installation Requirements.
 * The use of VSC used as an editor.
 * Use of HTML and CSS.
 * JS.
-## Technologies used
+## Technologies used.
  * CSS
  * HTML
  * Visual Studio Code
  * Javascript    
 
- ##How it works
+ ## How it works.
  1- if  the values entered are all , then the program would show that an Equilateral triangle.
    --input - first value (8), second value (8), third value (8)
    --output - Triangle is Equilateral.
@@ -23,7 +23,7 @@ By Charles Gateru.
   3- if the values entered differ but don't exceed each other by much, triangle would be a Scalene triangle.
    --input - first value (7), second value (5), third value (8)
    --output- Triangle is Scalene. 
-## License
+## License.
 MIT License
 
 Copyright (c) (2019) [Charles Gateru]  
