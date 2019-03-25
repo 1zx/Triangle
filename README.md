@@ -14,13 +14,13 @@ By Charles Gateru.
  * Javascript    
 
  ## How it works.
- 1- if  the values entered are all , then the program would show that an Equilateral triangle.
+ * if  the values entered are all , then the program would show that an Equilateral triangle.
    --input - first value (8), second value (8), third value (8)
    --output - Triangle is Equilateral.
-  2-  if two values in the input are equal, third different, the program would show an iscoceles triangle.
+  *  if two values in the input are equal, third different, the program would show an iscoceles triangle.
     --input - first value (6), second value (6), third value(5)
     --output - Triangle is Iscoceles.
-  3- if the values entered differ but don't exceed each other by much, triangle would be a Scalene triangle.
+  * if the values entered differ but don't exceed each other by much, triangle would be a Scalene triangle.
    --input - first value (7), second value (5), third value (8)
    --output- Triangle is Scalene. 
 ## License.
