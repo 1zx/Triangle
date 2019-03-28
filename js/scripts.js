@@ -1,9 +1,9 @@
 function triangleTracker(){
-    var a = parseInt(prompt("Enter the length"));
-    var b = parseInt(prompt("Enter the length"));
-    var c = parseInt(prompt("Enter the hypo"));
+  var a = document.getElementById('num1').value;
+  var b = document.getElementById('num2').value;
+  var c = document.getElementById('num3').value;
 
-    if (a==0 && b==0 && c==0){
+    if ((a==0 && b==0 && c==0)&&(a+b<c || b+c<a || a+c<b && a+c<b || b+c<a ||a+b<c)){
       alert("not a triangle");
     }
     else if (a ===b && b === c && c === a) {
